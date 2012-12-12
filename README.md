@@ -19,7 +19,11 @@ jQuery(function($) {
 });
 </script>
 ```
+## Test
 
+```
+$ grunt test
+```
 
 ## Examples
 see demo/index.html
