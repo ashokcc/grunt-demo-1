@@ -21,9 +21,7 @@ jQuery(function($) {
 ```
 ## Test
 
-```
-$ grunt test
-```
+see test/tab-plugin.html
 
 ## Examples
 see demo/index.html
